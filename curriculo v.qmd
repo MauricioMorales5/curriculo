@@ -1,0 +1,20 @@
+---
+title: "Curriculo Mauricio Morales"
+author: "Mauricio Morales"
+format: html
+editor: visual
+---
+
+## Información de Contacto.
+
+## Formación Académica.
+
+## Idiomas.
+
+## Experiencia.
+
+## Intereses.
+
+## Referencias.
+
+## 
