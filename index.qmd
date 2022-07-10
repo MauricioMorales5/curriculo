@@ -1,0 +1,42 @@
+---
+title: "Curriculo Mauricio Morales"
+author: "Mauricio Morales"
+format: html
+editor: visual
+---
+
+## Información de Contacto.
+
+![](media/mauricio.jpg){fig-align="right" width="171"}
+
+**Nombre**: Bolivar Mauricio Morales Morales
+
+**Correo:** bolivar.morales\@istjm.edu.ec
+
+## Formación Académica.
+
+-   Estudiante del Instituto Superrior Tecnológico Juan Montalvo
+
+## Idiomas.
+
+-   Español
+
+-   Ingles
+
+## Experiencia.
+
+-   Técnico en Copiservis
+
+-   Técnico en Telecentro
+
+-   Técnico en Copicompu
+
+## Intereses.
+
+adquirir nuevos conocimientos en sobre la tecnología.
+
+## Referencias.
+
+Lic. Jimmy Muñoz
+
+## 
